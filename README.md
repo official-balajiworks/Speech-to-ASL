@@ -25,7 +25,7 @@ individual alphabet letters, and displays corresponding American Sign Language
 ## Notebook
 
 ```text
-Untitled20.ipynb
+Speech to ASL.ipynb
 ```
 
 The notebook contains the complete workflow:
